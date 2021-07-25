@@ -34,6 +34,6 @@
 
 # 전처리
 - 전처리 사항
-- 수작업으로 normalization
-- scikit의 Xxxx() 사용
+- Normalization
+- Standardization
 
