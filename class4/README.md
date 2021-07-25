@@ -4,9 +4,9 @@
 - 학습 시의 validation 데이터 설정
 - 전처리
 
-실습 자료 : [data_split_apply_valid.ipynb](data_split_apply_valid.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/data_split_apply_valid.ipynb)
-
-실습 자료 : [normalization_and_standardization.ipynb](normalization_and_standardization.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/normalization_and_standardization.ipynb)
+# 실습 자료
+- 데이터 분리, 검증데이터 적용 : [data_split_apply_valid.ipynb](data_split_apply_valid.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/data_split_apply_valid.ipynb)
+- 데이터 전처리 : [normalization_and_standardization.ipynb](normalization_and_standardization.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/normalization_and_standardization.ipynb)
 
 <br>
 
