@@ -1,6 +1,6 @@
 # 4회차. 데이터 준비
 - 3가지 데이터 - train/validation/test 데이터
-- 쪼개기 방법
+- 분리 방법
 - 학습 시의 validation 데이터 설정
 - 전처리
 
@@ -17,10 +17,10 @@
 
 <br>
 
-# 쪼개기 방법
-- 쪼개는 비율
-- 수작업으로 쪼개기
-- scikit의 train_test_split()으로 쪼개기
+# 분리 방법
+- 분리 비율
+- 수작업으로 분리
+- scikit의 train_test_split()으로 분리
 
 <br>
 

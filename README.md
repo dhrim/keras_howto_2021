@@ -38,9 +38,9 @@
 교육 바로 가기 : 평생교육원(TODO:add_link), [교육자료](class4)
 ### 상세 내용
 - 3가지 데이터 - train/validation/test 데이터
-- 쪼개기 방법
+- 분리 방법
 - 학습 시의 validation 데이터 설정
-- 전처리
+- 데이터 전처리
 
 <br>
 
