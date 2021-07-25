@@ -5,7 +5,9 @@
 - 전처리
 
 실습 자료 : [data_split_apply_valid.ipynb](data_split_apply_valid.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/data_split_apply_valid.ipynb)
-    
+
+실습 자료 : [normalization_and_standardization.ipynb](normalization_and_standardization.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/normalization_and_standardization.ipynb)
+
 <br>
 
 # 3가지 데이터 - train/validation/test 데이터
@@ -34,3 +36,4 @@
 - 전처리 사항
 - 수작업으로 normalization
 - scikit의 Xxxx() 사용
+
