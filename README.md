@@ -30,7 +30,7 @@
 - loss 설정
 - metric 설정
 - batch_size 설정
-- 모델 크기 설정
+- 기타 설정
 
 <br>
 
