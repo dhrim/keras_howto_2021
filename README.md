@@ -103,16 +103,6 @@
 
 <br>
 
-## 11회차. 오버피팅 처리하기
-교육 바로 가기 : TODO : add link
-### 상세 내용
-- 오버피팅 개념
-- drop out
-- batch normalization
-- regularization
-
-<br>
-
 ## 11회차. 성능 개선
 교육 바로 가기 : TODO : add link
 ### 상세 내용
