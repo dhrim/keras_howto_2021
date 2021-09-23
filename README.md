@@ -158,6 +158,25 @@
     - [데이터 분포 그리기](http://TODO:add_link)
 
 
-TODO:add_more_items
+<br>
+
+- 템플릿
+    - 속성 데이터
+        - [회귀 Template](http://TODO:add_link)
+        - [분류 Template](http://TODO:add_link)
+    - 영상 데이터
+        - [회귀 Template](http://TODO:add_link)
+        - [분류 by CNN Template](http://TODO:add_link)
+        - [분류 by 전이학습 Template](http://TODO:add_link)
+    - 순차열 데이터
+        - 숫자열    
+            - [회귀 Template](http://TODO:add_link)
+            - [분류 Template](http://TODO:add_link)
+        - 문자열
+            - [회귀 Template](http://TODO:add_link)
+            - [분류 Template](http://TODO:add_link)
+        - 단어열    
+            - [회귀 Template](http://TODO:add_link)
+            - [분류 Template](http://TODO:add_link)
 
 
