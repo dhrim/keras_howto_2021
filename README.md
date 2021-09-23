@@ -124,7 +124,29 @@
 
 <br>
 
-# 항목 별 HowTo 바로 가기
+# HowTo 바로 가기
+- 모델 설정
+    - [loss 선택과 설정](http://TODO:add_link)
+    - [metric 선택과 설정](http://TODO:add_link)
+    - [batch_size 결정](http://TODO:add_link)
+    - callback
+        - [학습 중 loss 그리기](http://TODO:add_link)
+        - [early stopping](http://TODO:add_link)
+        - [학습 중 모델 저장](http://TODO:add_link)
+        - [학습 중 학습율 조정](http://TODO:add_link)
+    - [모델 저장과/로딩](http://TODO:add_link)
+    - [모델 모양 보기](http://TODO:add_link)
+
+<br>
+
+- 데이터
+    - [영상 데이터 로딩](http://TODO:add_link)
+    - [영상 데이터 증강](http://TODO:add_link)
+    - [데이터 train/test 분리](http://TODO:add_link)
+    - [validation 데이터 설정](http://TODO:add_link)
+    - [데이터 섞기](http://TODO:add_link)
+
+<br>
 
 - 튜닝
     - [성능이란](http://TODO:add_link)
@@ -147,16 +169,24 @@
     - [CASE : 커스텀 데이터 적용시 오류](http://TODO:add_link)
     - [CASE : 커스텀 데이터 학습 안됨](http://TODO:add_link)
     - [CASE : train 로스와 val 로스의 큰 차이](http://TODO:add_link)
-    - [CASE : 초기에 오버피팅](http://TODO:add_link)
+    - [CASE : 초기의 오버피팅](http://TODO:add_link)
     - [CASE : 크게 출렁이는 로스](http://TODO:add_link)
 
 <br>
 
 - 시각화
-    - [영상 데이터 그리기](http://TODO:add_link)
-    - [순차열 데이터 그리기](http://TODO:add_link)
-    - [데이터 분포 그리기](http://TODO:add_link)
-
+    - 모델
+        - [loss 그리기](http://TODO:add_link)
+        - [metric 그리기](http://TODO:add_link)
+        - [회귀 예측 결과 그리기](http://TODO:add_link)
+        - [분류 예측 결과 그리기](http://TODO:add_link)
+    - 데이터
+        - [영상 데이터 그리기](http://TODO:add_link)
+        - [순차열 데이터 그리기](http://TODO:add_link)
+        - [데이터 분포 그리기](http://TODO:add_link)
+    - 결과
+        - [ROC 커브 그리기](http://TODO:add_link)
+        - [confusion matrix 그리기](http://TODO:add_link)
 
 <br>
 
