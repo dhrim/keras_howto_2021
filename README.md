@@ -140,11 +140,15 @@
 <br>
 
 - 데이터
+    - [http 데이터 다운로드](http://TODO:add_link)
     - [영상 데이터 로딩](http://TODO:add_link)
     - [영상 데이터 증강](http://TODO:add_link)
     - [데이터 train/test 분리](http://TODO:add_link)
     - [validation 데이터 설정](http://TODO:add_link)
     - [데이터 섞기](http://TODO:add_link)
+    - [분류 레이블링 데이터 준비](http://TODO:add_link)
+    - [Normalization](http://TODO:add_link)
+    - [Standardization](http://TODO:add_link)
 
 <br>
 
@@ -209,4 +213,9 @@
             - [회귀 Template](http://TODO:add_link)
             - [분류 Template](http://TODO:add_link)
 
+<br>
+
+- 환경
+    - [라이브러리 설치](http://TODO:add_link)
+    - [google driver 연결](http://TODO:add_link)
 
