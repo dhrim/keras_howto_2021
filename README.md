@@ -27,9 +27,9 @@
 ## 3회차. 기본적인 모델 설정
 교육 바로 가기 : [교육자료](class3)
 ### 상세 내용
-- loss 설정
-- metric 설정
-- batch_size 설정
+- loss 선택 방법
+- metric 선택 방법
+- batch_size 결정 
 - 기타 설정
 
 <br>
