@@ -29,7 +29,7 @@
 ### 상세 내용
 - loss 선택 방법
 - metric 선택 방법
-- batch_size 결정 
+- batch_size 결정 결정 
 - 기타 설정
 
 <br>
