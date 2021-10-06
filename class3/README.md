@@ -1,10 +1,10 @@
 # 3회차. 기본적인 모델 설정
-- loss 설정
-- metric 설정
+- loss 선택 방법
+- metric 선택 방법
     - 회귀 작업
     - 분류 작업
     - 2진 분류 작업
-- batch_size 설정
+- batch_size 결정 방법
 - 기타 설정
     - verbose 설정
     - loss, 설정 지표 그리기
