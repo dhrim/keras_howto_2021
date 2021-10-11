@@ -47,9 +47,9 @@
 ## 5회차. 영상 데이터 처리/증강
 교육 바로 가기 : [교육자료](class5)
 ### 상세 내용
-- ImageDataGenerator를 사용한 데이터 로딩
-- ImageDataGenerator를 사용한 데이터 증강
-- 학습에 ImageDataGenerator 적용
+- 영상 데이터 로딩
+- 영상 데이터 증강
+- 영상 데이터를 사용한 모델 학습/평가/예측
 
 <br>
 
