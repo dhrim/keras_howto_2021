@@ -1,6 +1,6 @@
 # 12회차. 오버피팅 처리
 - 오버피팅의 이해
-- Dorp Out
+- Drop Out
 - Batch Normalzation
 - Regularization
 
