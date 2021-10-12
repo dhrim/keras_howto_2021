@@ -116,9 +116,9 @@
 교육 바로 가기 : [교육자료](class12)
 ### 상세 내용
 - 오버피팅의 이해
-- dorp out
-- batch normalzation
-- regularization
+- Dorp Out
+- Batch Normalzation
+- Regularization
 
 <br>
 
