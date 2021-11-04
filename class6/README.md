@@ -1,10 +1,13 @@
-# NNN회차. 데이터 준비
-- TODO
+# 6회차. 시각화
+- loss와 metric 그리기
+- confusion matrix 그리기
+- ROC 그리기
+- 영상 데이터 그리기
+- 순차열 데이터 그리기
 
 # 실습 자료
-- TODO : [XXX.ipynb](XXX.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/classNNN/XXX.ipynb)
-
+- loss와 metric 그리기 : [roc_and_auc_confusion_matric.ipynb](roc_and_auc_confusion_matric.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class6/roc_and_auc_confusion_matric.ipynb)
+- ROC, AUC, confusion matrix : [roc_and_auc_confusion_matric.ipynb](roc_and_auc_confusion_matric.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class6/roc_and_auc_confusion_matric.ipynb)
+- 영상 데이터 그리기 : [roc_and_auc_confusion_matric.ipynb](roc_and_auc_confusion_matric.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class6/roc_and_auc_confusion_matric.ipynb)
+- 순차열 데이터 그리기 : [roc_and_auc_confusion_matric.ipynb](roc_and_auc_confusion_matric.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class6/roc_and_auc_confusion_matric.ipynb)
 <br>
-
-# TODO
-- TODO
