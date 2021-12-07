@@ -125,96 +125,73 @@
 
 # HowTo 바로 가기
 - 모델 설정
-    - [loss 선택과 설정](http://TODO:add_link)
-    - [metric 선택과 설정](http://TODO:add_link)
-    - [batch_size 결정](http://TODO:add_link)
+    - [loss 선택과 설정](class3/base_model_configuration.ipynb)
+    - [metric 선택과 설정](class3/base_model_configuration.ipynb)
+    - [batch_size 결정](class3/base_model_configuration.ipynb)
     - callback
-        - [학습 중 loss 그리기](http://TODO:add_link)
-        - [early stopping](http://TODO:add_link)
-        - [학습 중 모델 저장](http://TODO:add_link)
-        - [학습 중 학습율 조정](http://TODO:add_link)
-    - [모델 저장과/로딩](http://TODO:add_link)
-    - [모델 모양 보기](http://TODO:add_link)
+        - [학습 중 loss 그리기](class10/keras_callback.ipynb)
+        - [early stopping](class10/keras_callback.ipynb)
+        - [학습 중 모델 저장](class10/keras_callback.ipynb)
+        - [학습 중 학습율 조정](class10/keras_callback.ipynb)
+    - [모델 저장과/로딩](class2/base_dnn_code_in_keras.ipynb)
+    - [모델 모양 보기](class2/base_dnn_code_in_keras.ipynb)
 
 <br>
 
 - 데이터
-    - [http 데이터 다운로드](http://TODO:add_link)
-    - [영상 데이터 로딩](http://TODO:add_link)
-    - [영상 데이터 증강](http://TODO:add_link)
-    - [데이터 train/test 분리](http://TODO:add_link)
-    - [validation 데이터 설정](http://TODO:add_link)
-    - [데이터 섞기](http://TODO:add_link)
-    - [분류 레이블링 데이터 준비](http://TODO:add_link)
-    - [Normalization](http://TODO:add_link)
-    - [Standardization](http://TODO:add_link)
+    - [http 데이터 다운로드](class8/template_text_sequence_data_prediction.ipynb)
+    - [영상 데이터 로딩](class7/template_image_data_transfer_learning_classification.ipynb)
+    - [영상 데이터 증강](class7/template_image_data_transfer_learning_classification.ipynb)
+    - [데이터 train/test 분리](class4/data_split_apply_valid.ipynb)
+    - [validation 데이터 설정](class4/data_split_apply_valid.ipynb)
+    - [데이터 섞기](class4/data_split_apply_valid.ipynb)
+    - [분류 레이블링 데이터 준비](class7/template_attribute_data_classification.ipynb)
+    - [Normalization](class4/normalization_and_standardization.ipynb)
+    - [Standardization](class4/normalization_and_standardization.ipynb)
 
 <br>
 
 - 튜닝
-    - [성능이란](http://TODO:add_link)
-    - [모델의 크기와 성능](http://TODO:add_link)
-    - [데이터 양과 성능](http://TODO:add_link)
-    - [normalization과 성능](http://TODO:add_link)
-    - [성능 지표란](http://TODO:add_link)
-    - [오버피팅 이란](http://TODO:add_link)
-    - [오버피팅 처리법](http://TODO:add_link)
-        - [drop out](http://TODO:add_link)
-        - [batch normalization](http://TODO:add_link)
-        - [regularization](http://TODO:add_link)
-    - [learning rate 조정](http://TODO:add_link)
-
-<br>
-
-- CASE 별 문제 해결
-    - [CASE : 기반 코드의 오동작](http://TODO:add_link)
-    - [CASE : 기반 코드의 학습 안됨](http://TODO:add_link)
-    - [CASE : 커스텀 데이터 적용시 오류](http://TODO:add_link)
-    - [CASE : 커스텀 데이터 학습 안됨](http://TODO:add_link)
-    - [CASE : train 로스와 val 로스의 큰 차이](http://TODO:add_link)
-    - [CASE : 초기의 오버피팅](http://TODO:add_link)
-    - [CASE : 크게 출렁이는 로스](http://TODO:add_link)
+    - [모델의 크기와 성능](class11/performance.ipynb)
+    - [데이터 양과 성능](class11/performance.ipynb)
+    - [normalization과 성능](class11/performance.ipynb)
+    - [성능 지표란](class11/performance.ipynb)
+    - [오버피팅 처리법]
+        - [drop out](class12/treating_overfitting.ipynb)
+        - [batch normalization](class12/treating_overfitting.ipynb)
+        - [regularization](class12/treating_overfitting.ipynb)
+        - [영상 데이터 증강](class7/template_image_data_transfer_learning_classification.ipynb)
 
 <br>
 
 - 시각화
     - 모델
-        - [loss 그리기](http://TODO:add_link)
-        - [metric 그리기](http://TODO:add_link)
-        - [회귀 예측 결과 그리기](http://TODO:add_link)
-        - [분류 예측 결과 그리기](http://TODO:add_link)
+        - [loss 그리기](class6/draw_loss_and_metric.ipynb)
+        - [metric 그리기](class6/draw_loss_and_metric.ipynb)
+        - [회귀 예측 결과 그리기](class7/template_attribute_data_regression.ipynb)
+        - [분류 예측 결과 그리기](class7/template_attribute_data_classification.ipynb)
     - 데이터
-        - [영상 데이터 그리기](http://TODO:add_link)
-        - [순차열 데이터 그리기](http://TODO:add_link)
+        - [영상 데이터 그리기](class6/draw_image_data.ipynb)
+        - [순차열 데이터 그리기](class6/draw_sequence_datq.ipynb)
         - [데이터 분포 그리기](http://TODO:add_link)
     - 결과
-        - [ROC 커브 그리기](http://TODO:add_link)
-        - [confusion matrix 그리기](http://TODO:add_link)
+        - [ROC 커브 그리기](class6/roc_and_auc_confusion_matric.ipynb)
+        - [confusion matrix 그리기](class6/roc_and_auc_confusion_matric.ipynb)
 
 <br>
 
 - 템플릿
     - 속성 데이터
-        - [회귀 Template](http://TODO:add_link)
-        - [분류 Template](http://TODO:add_link)
+        - [회귀 Template](class7/template_attribute_data_regression.ipynb)
+        - [분류 Template](class7/template_attribute_data_classification.ipynb)
     - 영상 데이터
-        - [회귀 Template](http://TODO:add_link)
-        - [분류 by CNN Template](http://TODO:add_link)
-        - [분류 by 전이학습 Template](http://TODO:add_link)
+        - [분류 by 전이학습 Template](class7/template_image_data_transfer_learning_classification.ipynb)
     - 순차열 데이터
-        - 숫자열    
-            - [회귀 Template](http://TODO:add_link)
-            - [분류 Template](http://TODO:add_link)
-        - 문자열
-            - [회귀 Template](http://TODO:add_link)
-            - [분류 Template](http://TODO:add_link)
-        - 단어열    
-            - [회귀 Template](http://TODO:add_link)
-            - [분류 Template](http://TODO:add_link)
+        - [회귀 Template](class9/template_numeric_sequence_data_prediction.ipynb)
+        - [분류 Template](class9/template_numeric_sequence_data_classification.ipynb)
+    - 텍스트 데이터
+        - [회귀 Template](class8/template_text_sequence_data_prediction.ipynb)
+        - [분류 Template](class8/template_text_sequence_data_classification.ipynb)
 
 <br>
-
-- 환경
-    - [라이브러리 설치](http://TODO:add_link)
-    - [google driver 연결](http://TODO:add_link)
 
