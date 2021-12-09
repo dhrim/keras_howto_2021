@@ -193,6 +193,7 @@
         - [회귀 Template](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_attribute_data_regression.ipynb#scrollTo=giMgHzNY8861&line=1&uniqifier=1)
         - [분류 Template](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_attribute_data_classification.ipynb#scrollTo=giMgHzNY8861)
     - 영상 데이터
+        - [회귀 by 전이학습 Template](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/etc/template_image_data_transfer_learning_regression.ipynb)
         - [분류 by 전이학습 Template](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_image_data_transfer_learning_classification.ipynb#scrollTo=Sv47DFcMmPRe)
     - 순차열 데이터
         - [회귀 Template](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class9/template_numeric_sequence_data_prediction.ipynb#scrollTo=mZAFnuGfwqy-)
