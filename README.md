@@ -144,8 +144,8 @@
     - [영상 데이터 로딩](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_image_data_transfer_learning_classification.ipynb#scrollTo=0Whz-eAEwqCl)
     - [영상 데이터 증강](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_image_data_transfer_learning_classification.ipynb#scrollTo=0Whz-eAEwqCl)
     - 데이터 train/test 분리
-        -[수작업으로](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/data_split_apply_valid.ipynb#scrollTo=smFdOX0J5JML)
-        -[scikit으로](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/data_split_apply_valid.ipynb#scrollTo=F7LLvEfI7hEx)
+        - [수작업으로](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/data_split_apply_valid.ipynb#scrollTo=smFdOX0J5JML)
+        - [scikit으로](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/data_split_apply_valid.ipynb#scrollTo=F7LLvEfI7hEx)
     - [validation 데이터 설정](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/data_split_apply_valid.ipynb#scrollTo=I67s099Q-YJd)
     - 데이터 섞기
         - [X, Y 분리 전에](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/data_split_apply_valid.ipynb#scrollTo=sfiCFU6gQpKT)
