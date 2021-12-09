@@ -130,10 +130,10 @@
     - [batch_size 결정](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class3/base_model_configuration.ipynb#scrollTo=d4Jwyvmh47I2)
     - callback
         - [학습 중 loss 그리기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class10/keras_callback.ipynb#scrollTo=mFCNnJtknkQo)
-        - [early stopping](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class10/keras_callback.ipynb#scrollTo=-GdXVYClnj-d)
+        - [학습 중 조기 종료](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class10/keras_callback.ipynb#scrollTo=-GdXVYClnj-d)
         - [학습 중 모델 저장](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class10/keras_callback.ipynb#scrollTo=Q3pS1ZDznkcf)
         - [학습 중 학습율 조정](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class10/keras_callback.ipynb#scrollTo=ePzRsc2ATPAm)
-    - [모델 저장과/로딩](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class2/base_dnn_code_in_keras.ipynb#scrollTo=y5pWvzXVKA5X)
+    - [모델 저장과 로딩](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class2/base_dnn_code_in_keras.ipynb#scrollTo=y5pWvzXVKA5X)
     - [모델 모양 보기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class2/base_dnn_code_in_keras.ipynb#scrollTo=qUvAijAPoZEt)
 
 <br>
