@@ -140,14 +140,23 @@
 
 - 데이터
     - [http 데이터 다운로드](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class8/template_text_sequence_data_prediction.ipynb#scrollTo=S85WJqNmOp7W)
+    - [속성 데이터 로딩](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/normalization_and_standardization.ipynb#scrollTo=a8JBf-TC5AWk)
     - [영상 데이터 로딩](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_image_data_transfer_learning_classification.ipynb#scrollTo=0Whz-eAEwqCl)
     - [영상 데이터 증강](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_image_data_transfer_learning_classification.ipynb#scrollTo=0Whz-eAEwqCl)
-    - [데이터 train/test 분리](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/data_split_apply_valid.ipynb#scrollTo=F7LLvEfI7hEx)
+    - 데이터 train/test 분리
+        -[수작업으로](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/data_split_apply_valid.ipynb#scrollTo=smFdOX0J5JML)
+        -[scikit으로](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/data_split_apply_valid.ipynb#scrollTo=F7LLvEfI7hEx)
     - [validation 데이터 설정](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/data_split_apply_valid.ipynb#scrollTo=I67s099Q-YJd)
-    - [데이터 섞기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/data_split_apply_valid.ipynb#scrollTo=cuHu0EKcRD27)
+    - 데이터 섞기
+        - [X, Y 분리 전에](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/data_split_apply_valid.ipynb#scrollTo=sfiCFU6gQpKT)
+        - [X, Y 분리 후에](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/data_split_apply_valid.ipynb#scrollTo=cuHu0EKcRD27)
     - [분류 레이블링 데이터 준비](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_attribute_data_classification.ipynb#scrollTo=qDu8wpKXq7kV)
-    - [Normalization](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/normalization_and_standardization.ipynb#scrollTo=nXhrrOwgjcB9)
-    - [Standardization](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/normalization_and_standardization.ipynb#scrollTo=6EgZXbG_qJnF)
+    - Normalization
+        - [속성 데이터](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/normalization_and_standardization.ipynb#scrollTo=nXhrrOwgjcB9)
+        - [영상 데이터](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/normalization_and_standardization.ipynb#scrollTo=PZRtMNZUgaA8)
+    - Standardization
+        - [속성 데이터](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/normalization_and_standardization.ipynb#scrollTo=6EgZXbG_qJnF)
+        - [영상 데이터](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/normalization_and_standardization.ipynb#scrollTo=B8woQFKAqL2v)
 
 <br>
 
