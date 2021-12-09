@@ -139,7 +139,7 @@
 <br>
 
 - 데이터
-    - [http 데이터 다운로드](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class8/template_text_sequence_data_prediction.ipynb#scrollTo=S85WJqNmOp7W)
+    - [http 데이터 다운로드](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class8/template_text_sequence_data_prediction.ipynb#scrollTo=S85WJqNmOp7W&line=1&uniqifier=1)
     - [속성 데이터 로딩](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/normalization_and_standardization.ipynb#scrollTo=a8JBf-TC5AWk)
     - [영상 데이터 로딩](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_image_data_transfer_learning_classification.ipynb#scrollTo=0Whz-eAEwqCl)
     - [영상 데이터 증강](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_image_data_transfer_learning_classification.ipynb#scrollTo=0Whz-eAEwqCl)
