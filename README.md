@@ -177,7 +177,7 @@
         - [loss 그리기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class6/draw_loss_and_metric.ipynb#scrollTo=iw9kjMSVP8Nf)
         - [metric 그리기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class6/draw_loss_and_metric.ipynb#scrollTo=XwWJBXidP98b)
         - [회귀 예측 결과 그리기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_attribute_data_regression.ipynb#scrollTo=ozcBPXF7w7B1)
-        - [분류 예측 결과 그리기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_attribute_data_classification.ipynb#scrollTo=ozcBPXF7w7B1&line=1&uniqifier=1)
+        - [분류 예측 결과 그리기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_attribute_data_classification.ipynb#scrollTo=ozcBPXF7w7B1)
     - 데이터
         - [영상 데이터 그리기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class6/draw_image_data.ipynb#scrollTo=DS-e_vx0YYE1)
         - [순차열 데이터 그리기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class6/draw_sequence_datq.ipynb#scrollTo=PQZRLzI5ZN2_)
