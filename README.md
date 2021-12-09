@@ -125,73 +125,72 @@
 
 # HowTo 바로 가기
 - 모델 설정
-    - [loss 선택과 설정](class3/base_model_configuration.ipynb)
-    - [metric 선택과 설정](class3/base_model_configuration.ipynb)
-    - [batch_size 결정](class3/base_model_configuration.ipynb)
+    - [loss 선택과 설정](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class3/base_model_configuration.ipynb#scrollTo=byU0eVWW47W9)
+    - [metric 선택과 설정](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class3/base_model_configuration.ipynb#scrollTo=WCwdsoZC47PQ)
+    - [batch_size 결정](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class3/base_model_configuration.ipynb#scrollTo=d4Jwyvmh47I2)
     - callback
-        - [학습 중 loss 그리기](class10/keras_callback.ipynb)
-        - [early stopping](class10/keras_callback.ipynb)
-        - [학습 중 모델 저장](class10/keras_callback.ipynb)
-        - [학습 중 학습율 조정](class10/keras_callback.ipynb)
-    - [모델 저장과/로딩](class2/base_dnn_code_in_keras.ipynb)
-    - [모델 모양 보기](class2/base_dnn_code_in_keras.ipynb)
+        - [학습 중 loss 그리기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class10/keras_callback.ipynb#scrollTo=mFCNnJtknkQo)
+        - [early stopping](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class10/keras_callback.ipynb#scrollTo=-GdXVYClnj-d)
+        - [학습 중 모델 저장](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class10/keras_callback.ipynb#scrollTo=Q3pS1ZDznkcf)
+        - [학습 중 학습율 조정](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class10/keras_callback.ipynb#scrollTo=ePzRsc2ATPAm)
+    - [모델 저장과/로딩](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class2/base_dnn_code_in_keras.ipynb#scrollTo=y5pWvzXVKA5X)
+    - [모델 모양 보기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class2/base_dnn_code_in_keras.ipynb#scrollTo=qUvAijAPoZEt)
 
 <br>
 
 - 데이터
-    - [http 데이터 다운로드](class8/template_text_sequence_data_prediction.ipynb)
-    - [영상 데이터 로딩](class7/template_image_data_transfer_learning_classification.ipynb)
-    - [영상 데이터 증강](class7/template_image_data_transfer_learning_classification.ipynb)
-    - [데이터 train/test 분리](class4/data_split_apply_valid.ipynb)
-    - [validation 데이터 설정](class4/data_split_apply_valid.ipynb)
-    - [데이터 섞기](class4/data_split_apply_valid.ipynb)
-    - [분류 레이블링 데이터 준비](class7/template_attribute_data_classification.ipynb)
-    - [Normalization](class4/normalization_and_standardization.ipynb)
-    - [Standardization](class4/normalization_and_standardization.ipynb)
+    - [http 데이터 다운로드](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class8/template_text_sequence_data_prediction.ipynb#scrollTo=S85WJqNmOp7W)
+    - [영상 데이터 로딩](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_image_data_transfer_learning_classification.ipynb#scrollTo=0Whz-eAEwqCl)
+    - [영상 데이터 증강](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_image_data_transfer_learning_classification.ipynb#scrollTo=0Whz-eAEwqCl)
+    - [데이터 train/test 분리](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/data_split_apply_valid.ipynb#scrollTo=F7LLvEfI7hEx)
+    - [validation 데이터 설정](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/data_split_apply_valid.ipynb#scrollTo=I67s099Q-YJd)
+    - [데이터 섞기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/data_split_apply_valid.ipynb#scrollTo=cuHu0EKcRD27)
+    - [분류 레이블링 데이터 준비](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_attribute_data_classification.ipynb#scrollTo=qDu8wpKXq7kV)
+    - [Normalization](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/normalization_and_standardization.ipynb#scrollTo=nXhrrOwgjcB9)
+    - [Standardization](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/normalization_and_standardization.ipynb#scrollTo=6EgZXbG_qJnF)
 
 <br>
 
 - 튜닝
-    - [모델의 크기와 성능](class11/performance.ipynb)
-    - [데이터 양과 성능](class11/performance.ipynb)
-    - [normalization과 성능](class11/performance.ipynb)
-    - [성능 지표란](class11/performance.ipynb)
-    - [오버피팅 처리법]
-        - [drop out](class12/treating_overfitting.ipynb)
-        - [batch normalization](class12/treating_overfitting.ipynb)
-        - [regularization](class12/treating_overfitting.ipynb)
-        - [영상 데이터 증강](class7/template_image_data_transfer_learning_classification.ipynb)
+    - [모델의 크기와 성능](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class11/performance.ipynb#scrollTo=vT-CKHGIXjwc)
+    - [데이터 양과 성능](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class11/performance.ipynb#scrollTo=xSbcHthvYpA9)
+    - [normalization과 성능](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class11/performance.ipynb#scrollTo=IrLPWr5qg1hk)
+    - 오버피팅 처리법
+        - [drop out](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class12/treating_overfitting.ipynb#scrollTo=JXugk5XL4Vcg)
+        - [batch normalization](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class12/treating_overfitting.ipynb#scrollTo=InNqbyKae5rY)
+        - [regularization](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class12/treating_overfitting.ipynb#scrollTo=BPXW3Kez4Y33)
+        - [영상 데이터 증강](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_image_data_transfer_learning_classification.ipynb#scrollTo=0Whz-eAEwqCl)
 
 <br>
 
 - 시각화
     - 모델
-        - [loss 그리기](class6/draw_loss_and_metric.ipynb)
-        - [metric 그리기](class6/draw_loss_and_metric.ipynb)
-        - [회귀 예측 결과 그리기](class7/template_attribute_data_regression.ipynb)
-        - [분류 예측 결과 그리기](class7/template_attribute_data_classification.ipynb)
+        - [loss 그리기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class6/draw_loss_and_metric.ipynb#scrollTo=iw9kjMSVP8Nf)
+        - [metric 그리기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class6/draw_loss_and_metric.ipynb#scrollTo=XwWJBXidP98b)
+        - [회귀 예측 결과 그리기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_attribute_data_regression.ipynb#scrollTo=ozcBPXF7w7B1)
+        - [분류 예측 결과 그리기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_attribute_data_classification.ipynb#scrollTo=ozcBPXF7w7B1&line=1&uniqifier=1)
     - 데이터
-        - [영상 데이터 그리기](class6/draw_image_data.ipynb)
-        - [순차열 데이터 그리기](class6/draw_sequence_datq.ipynb)
-        - [데이터 분포 그리기](http://TODO:add_link)
+        - [영상 데이터 그리기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class6/draw_image_data.ipynb#scrollTo=DS-e_vx0YYE1)
+        - [순차열 데이터 그리기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class6/draw_sequence_datq.ipynb#scrollTo=PQZRLzI5ZN2_)
+        - [데이터 분포 그리기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/normalization_and_standardization.ipynb#scrollTo=nXhrrOwgjcB9)
     - 결과
-        - [ROC 커브 그리기](class6/roc_and_auc_confusion_matric.ipynb)
-        - [confusion matrix 그리기](class6/roc_and_auc_confusion_matric.ipynb)
+        - [ROC 커브 그리기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class6/roc_and_auc_confusion_matric.ipynb#scrollTo=RZoV-4IDj1bw)
+        - [confusion matrix 그리기](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class6/roc_and_auc_confusion_matric.ipynb#scrollTo=BYOG3koCj1bx)
 
 <br>
 
 - 템플릿
     - 속성 데이터
-        - [회귀 Template](class7/template_attribute_data_regression.ipynb)
-        - [분류 Template](class7/template_attribute_data_classification.ipynb)
+        - [회귀 Template](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_attribute_data_regression.ipynb#scrollTo=giMgHzNY8861&line=1&uniqifier=1)
+        - [분류 Template](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_attribute_data_classification.ipynb#scrollTo=giMgHzNY8861)
     - 영상 데이터
-        - [분류 by 전이학습 Template](class7/template_image_data_transfer_learning_classification.ipynb)
+        - [분류 by 전이학습 Template](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class7/template_image_data_transfer_learning_classification.ipynb#scrollTo=Sv47DFcMmPRe)
     - 순차열 데이터
-        - [회귀 Template](class9/template_numeric_sequence_data_prediction.ipynb)
-        - [분류 Template](class9/template_numeric_sequence_data_classification.ipynb)
+        - [회귀 Template](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class9/template_numeric_sequence_data_prediction.ipynb#scrollTo=mZAFnuGfwqy-)
+        - [분류 Template](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class9/template_numeric_sequence_data_classification.ipynb#scrollTo=mZAFnuGfwqy-)
     - 텍스트 데이터
-        - [회귀 Template](class8/template_text_sequence_data_prediction.ipynb)
-        - [분류 Template](class8/template_text_sequence_data_classification.ipynb)
+        - [회귀 Template](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class8/template_text_sequence_data_prediction.ipynb#scrollTo=h2T83cSMqzM5)
+        - [분류 Template](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class8/template_text_sequence_data_classification.ipynb#scrollTo=-bTCweaZO2UH)
 
 <br>
 
