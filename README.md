@@ -157,7 +157,7 @@
     - Standardization
         - [속성 데이터](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/normalization_and_standardization.ipynb#scrollTo=6EgZXbG_qJnF)
         - [영상 데이터](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/class4/normalization_and_standardization.ipynb#scrollTo=B8woQFKAqL2v)
-
+    - [커스텀 data generator](https://colab.research.google.com/github/dhrim/keras_howto_2021/blob/master/etc/custom_data_generator.ipynb)
 <br>
 
 - 튜닝
